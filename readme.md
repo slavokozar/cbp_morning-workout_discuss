@@ -1,18 +1,12 @@
 # Morning Workout w07d04
 
----exercise
-
 ### 1. PHP project
 
 Create php project with markup based on template.html.
 
----exercise
-
 ### 2. Prepare DB
 
 Create database, import SQL file.
-
----exercise
 
 ### 3. Render messages.
 
@@ -28,12 +22,8 @@ Use following template for each of the messages:
 </div>
 ```
 
----exercise
-
 ### 4. No messages warning
 
 In case of empty table `messages` render warning: "No messages yet :(".
-
----exercise
 
 ### 5. Make form working!
